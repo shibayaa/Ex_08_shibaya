@@ -238,4 +238,5 @@ int main()
 	else if (!(i < _countof(jppostSize))) {
 		cout << "‚±‚Ì‹…‚Í‚ä‚¤ƒpƒbƒN‚Å‚Í‘—‚ê‚Ü‚¹‚ñ" << endl;
 	}
+
 }
